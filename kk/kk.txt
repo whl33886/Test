@@ -1,0 +1,3 @@
+[K]
+Angle=30
+XMax=5

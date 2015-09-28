@@ -1,0 +1,11 @@
+F:\LearnProject\Test\Temp\bin\Debug\Assembly-CSharp.dll
+F:\LearnProject\Test\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\LearnProject\Test\Temp\bin\Debug\UnityEditor.dll
+F:\LearnProject\Test\Temp\bin\Debug\UnityEngine.dll
+F:\LearnProject\Test\Temp\bin\Debug\Mono.Cecil.dll
+F:\LearnProject\Test\Temp\bin\Debug\nunit.framework.dll
+F:\LearnProject\Test\Temp\bin\Debug\Unity.DataContract.dll
+F:\LearnProject\Test\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\LearnProject\Test\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\LearnProject\Test\obj\Debug\Assembly-CSharp.dll
+F:\LearnProject\Test\obj\Debug\Assembly-CSharp.pdb

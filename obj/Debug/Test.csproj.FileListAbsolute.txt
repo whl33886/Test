@@ -1,0 +1,6 @@
+F:\LearnProject\Test\bin\Debug\Test.exe.config
+F:\LearnProject\Test\bin\Debug\Test.exe
+F:\LearnProject\Test\bin\Debug\Test.pdb
+F:\LearnProject\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\LearnProject\Test\obj\Debug\Test.exe
+F:\LearnProject\Test\obj\Debug\Test.pdb
